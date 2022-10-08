@@ -39,7 +39,7 @@
 
 
     
-	"BVISIBLE":"true",
+	"BVISIBLE":"false",
 "MORETIPSLINK":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
 
 
@@ -52,40 +52,7 @@
 
 	
 	"moreappsgrid":[
-		{
-						"picture":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/04672e56-23a3-472f-b11e-1436ff5615be/d8ztrbq-62881ac5-0249-42a4-896b-104d055203d1.png",
-						"link":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
-						"name":"METAL SLUG X",
-						"type":"install"
-					},
-		{
-						"picture":"https://play-lh.googleusercontent.com/ToEn9qnnHA5pbYaKXmohsRnkId3kRY6hK6Q41vvIOHvqEYzEs-PEQMRbMfcJ8EtpM-I=w480-h960",
-						"link":"https://play.google.com/store/apps/details?id=io.awesome.vantube",
-						"name":"BLOCK ADS ON VIDEO",
-						"type":"install"
-					},
-		{
-						"picture":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/04672e56-23a3-472f-b11e-1436ff5615be/d8zu6ht-d51d341e-8204-43ef-81b6-ad898766ca46.png/v1/fill/w_512,h_512,strp/metal_slug_3_game_icon_by_19sandman91_d8zu6ht-fullview.png",
-						"link":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
-						"name":"METAL SLUG 3",
-						"type":"install"
-					},
-		
-		
-		{
-						"picture":"https://play-lh.googleusercontent.com/nmqODT4Kpuv6er8p7hjNENAUSu4rNQSywSZfrcExfHEsEllEqs1sW_aDOj2AAdPbppIm=s360-rw",
-						"link":"https://play.google.com/store/apps/details?id=com.imposthero.supers",
-						"name":"64 GAMES in 1 App",
-						"type":"install"
-					},
-		
-					
-			{
-						"picture":"https://play-lh.googleusercontent.com/CX0-tAshhCz_KzFp4nhOBCgugA4w-GF16C4dTv-cMC0xgAFVi3OwLeP4_uhB1qyldg=s360-rw",
-						"link":"https://play.google.com/store/apps/details?id=net.wormobatt.snakzon",
-						"name":"BIG WORMS",
-						"type":"install"
-					}		
+				
 					
 				
 	]
